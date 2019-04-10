@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff7043</color>
+    <color name="colorPrimaryDark">#c63f17</color>
+    <color name="colorAccent">#ffa270</color>
+
+    <color name="barsil_container">#FFFBE6</color>
+    <color name="barsil_text">#29302E</color>
+    <color name="barsil_button">#356859</color>
+    <color name="barsil_divider">#29302E</color>
+</resources>

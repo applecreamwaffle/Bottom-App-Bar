@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:id="@+id/bottom_sheet_item1"
+        android:icon="@drawable/baseline_replay_10_black_24"
+        android:title="Item 1"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/bottom_sheet_item2"
+        android:icon="@drawable/baseline_exposure_plus_1_black_24"
+        android:title="Item 2"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/bottom_sheet_item3"
+        android:icon="@drawable/baseline_add_white_24"
+        android:title="Item 3"
+        app:showAsAction="ifRoom"/>
+
+</menu>
